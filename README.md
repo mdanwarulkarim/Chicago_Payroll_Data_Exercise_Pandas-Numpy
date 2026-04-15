@@ -1,6 +1,7 @@
 # Chicago_Payroll_Data_Exercise_Pandas-Numpy
 
-<img width="1408" height="768" alt="Gemini_Generated_Image_951f4f951f4f951f" src="https://github.com/user-attachments/assets/7574d8b9-2749-4916-8593-633bc8042c7e" />
+<img width="1408" height="768" alt="Chicago Payroll infographic image" src="https://github.com/user-attachments/assets/8717d2b2-3ec6-4b55-b543-cee8e3990198" />
+
 
 
 # City of Chicago Payroll Data EDA
